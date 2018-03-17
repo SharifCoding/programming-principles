@@ -26,6 +26,51 @@ Each test should stop in the place where it was started, restore to it's initial
 
 The test itself should contain only actions that to be performed on the test object to get the result, while setUp and tearDown are the methods to help you to leave your test code clean and flexible.
 
+Example from [Cruise Ships](https://github.com/SharifCoding/cruise-ships) assignment;
+Before applying `beforeEach` method:
+```js
+describe('Ship', () => {
+  it('can be instantiated', () => {
+    const port = new Port('Dover');
+    const itinerary = new Itinerary([port]);
+    const ship = new Ship(itinerary);
+
+    expect(ship).toBeInstanceOf(Object);
+  });
+  it('has a current port', () => {
+    const port = new Port('Dover');
+    const itinerary = new Itinerary([port]);
+    const ship = new Ship(itinerary);
+
+    expect(ship.currentPort).toBe(port);
+  });
+  it('gets added to port on instantiation', () => {
+    const port = new Port('Dover');
+    const itinerary = new Itinerary([port]);
+    const ship = new Ship(itinerary);
+
+    expect(port.ships).toContain(ship);
+  });
+});
+```
+After applying `beforeEach` method:
+```js
+describe('Ship', () => {
+  beforeEach(() => {
+    const port = new Port('Dover');
+    const itinerary = new Itinerary([port]);
+    const ship = new Ship(itinerary);
+  })
+  it('can be instantiated', () => {
+  expect(ship).toBeInstanceOf(Object);
+  });
+  it('has a current port', () => {
+  expect(ship.currentPort).toBe(port);
+  });
+  it('gets added to port on instantiation', () => {
+  expect(port.ships).toContain(ship);
+});
+```
 [Setup and Teardown](https://facebook.github.io/jest/docs/en/setup-teardown.html)
 
 [Image Source](http://www.assertselenium.com/angularjs/protractor-jasmine-pre-post-processing-methods/)
