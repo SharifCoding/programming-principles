@@ -1,4 +1,5 @@
 ![setupTeardown](setupTeardown.png)
+
 ___Prepare initial state before tests run and perform cleanup after tests complete.___
 
 # Setup and Teardown
