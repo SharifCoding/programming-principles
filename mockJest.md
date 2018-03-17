@@ -13,30 +13,19 @@ In Jest, doubles are generally always referred to as mocks
 - Can provide custom implementations
 
 Example from [Cruise Ships](https://github.com/SharifCoding/cruise-ships) assignment;
-Before applying mocks to `port.test.js`:
+Before applying mocks to `itinerary.test.js`:
 ```js
-  it('track removal of ship in port', () => {
-    const port = new Port('LV-426');
-    const Nostromo = {};
-    const Sulaco = {};
-    port.addShip(Nostromo);
-    port.addShip(Sulaco);
-    port.removeShip(Nostromo);
-    expect(port.ships).toEqual([Sulaco]);
-  });
+  const dover = new Port('Dover');
+  const calais = new Port('Calais');
+  const itinerary = new Itinerary([dover, calais]);
+  expect(itinerary.ports).toEqual([dover, calais]);
 ```
 Mocks `jest.fn()` applied to the test unit:
 ```js
-  it('track removal of ship in port', () => {
-    const port = new Port('LV-426');
-    const Nostromo = jest.fn();
-    const Sulaco = jest.fn();
-    port.addShip(Nostromo);
-    port.addShip(Sulaco);
-    port.removeShip(Nostromo);
-    expect(port.ships).toEqual([Sulaco]);
-  });
-  ```
+  const ports = [jest.fn(), jest.fn()];
+  const itinerary = new Itinerary(ports);
+  expect(itinerary.ports).toEqual(ports);
+```
 [jest.fn() All the Things](https://medium.com/@deanslamajr/jest-fn-all-the-things-d26f3b929986)
 
 [Mock Functions](https://facebook.github.io/jest/docs/en/mock-functions.html)
