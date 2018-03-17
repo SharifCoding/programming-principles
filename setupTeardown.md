@@ -2,7 +2,6 @@
 
 ___Prepare initial state before tests run and perform cleanup after tests complete.___
 
-# Setup and Teardown
 If you want to do something before the first or after the test unit has been run, you can use methos Setup (`beforeEach`), and Teardown (`afterEach`). When a beforeEach() method is defined, the test runner will run that method prior to each test. Likewise, if a afterEach() method is defined, the test runner will invoke that method after each test.
 ```js
 beforeEach(context =>
