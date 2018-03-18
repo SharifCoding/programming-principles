@@ -1,4 +1,4 @@
-![software_quality](software_quality.jpg)
+![software_quality](img/software_quality.jpg)
 # Test-Driven Development
 Writing a test before writing the code means that the test will fail, however it is a clear directive for what to add to your program next. And that's the brilliance of test-driven development.
 

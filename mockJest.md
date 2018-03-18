@@ -1,4 +1,4 @@
-![mockJest](mockJest.png)
+![mockJest](img/mockJest.png)
 
 ___A higher order function takes a function and returns a function. Jest offers a way to make sure the function you gave is being used right.___
 

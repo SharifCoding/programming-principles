@@ -1,4 +1,4 @@
-![spiesJest](spiesJest.jpeg)
+![spiesJest](img/spiesJest.jpeg)
 
 ___A spy can tell us how many times a function was called, what arguments each call had, what values were returned, what errors were thrown, etc.___
 

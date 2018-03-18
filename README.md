@@ -1,4 +1,4 @@
-![www.pexels.com](books-education-school-literature-51342.jpeg)
+![www.pexels.com](img/books-education-school-literature-51342.jpeg)
 # Programming Principles
 
 ## ***Work in progress***

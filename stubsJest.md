@@ -1,4 +1,4 @@
-![stubsJest](stubsJest.png)
+![stubsJest](img/stubsJest.png)
 
 ___A stub method is a method that just returns a simple but valid (though not necessarily correct) result.___
 
