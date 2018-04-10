@@ -1,4 +1,6 @@
-![mockJest](img/mockJest.png)
+![mockJest](../img/mockJest.png)
+
+## Mock functions
 
 ___A higher order function takes a function and returns a function. Jest offers a way to make sure the function you gave is being used right.___
 
@@ -31,3 +33,5 @@ Mocks `jest.fn()` applied to the test unit:
 [Mock Functions](https://facebook.github.io/jest/docs/en/mock-functions.html)
 
 [Image Source](http://www.assertselenium.com/angularjs/protractor-jasmine-pre-post-processing-methods/)
+
+### [Return: Express README](../README.md)

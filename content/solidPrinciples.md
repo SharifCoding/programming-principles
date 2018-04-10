@@ -1,6 +1,6 @@
-![https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa](img/SOLID.jpeg)
+![https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa](../img/SOLID.jpeg)
 
-# SOLID Principles
+## SOLID Principles
 Some important point about SOLID design principles.
 - Generally speaking, SOLID state of matter can be brittle. But while talking about code we are not aiming for brittleness of code.
 - As far as software designing is concerned, SOLID should be used where code can change shape.
@@ -18,9 +18,9 @@ SOLID is an acronym for five principles that help software developers design mai
 - Interface segregation
 - Dependency inversion.
 
-## Single Responsibility Principle
+### Single Responsibility Principle
 
-### A class should have one, and only one, reason to change.
+#### A class should have one, and only one, reason to change.
 - A class should have only single responsibility. A single reason to change.
 - Based on separation of concerns.
 - Vary each concern independently of other concern.
@@ -88,9 +88,9 @@ changeSettings(settings) {
 
 ----
 
-## Open-Closed Principle
+### Open-Closed Principle
 
-### Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
+#### Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
 - Writing something very speci c to solve some speci c problem can lead to writing same code multiple time which in turn results in code duplication
 - Code duplication leads to maintainability problem.
 - Reused abstraction principle – if we have multiple abstractions which are not being used by the - concrete class then it is a sign of poor designing and abstractions.
@@ -150,9 +150,9 @@ export default iceCreamMaker;
 
 ----
 
-## Liskov Substitution Principle
+### Liskov Substitution Principle
 
-### Child classes should never break the parent class' type definitions.
+#### Child classes should never break the parent class' type definitions.
 - It talks about polymorphism.
 - Named after barbara liskov, in 70’s
 - Derived types must be substituted for base types.
@@ -276,9 +276,9 @@ renderLargeShapes(shapes);
 
 ----
 
-## Interface Segregation Principle
+### Interface Segregation Principle
 
-### Make one grained interfaces that are client specific.
+#### Make one grained interfaces that are client specific.
 - ISP is SOLID design principle which is used to help us achieve the LSP by having more granularity.
 - Clients should not depend on methods they do not use. As we have see in the previous code example. - VolumeCalculator should not depend on the GetVolume methods of the classes.
 - Interface are introduced to achieve loose coupling and its not the classes that use the interfaces but clients are the one who use interfaces.
@@ -362,9 +362,9 @@ const $ = new DOMTraverser({
 
 ----
 
-## Dependency Inversion Principle
+### Dependency Inversion Principle
 
-### Depend on abstractions, not on concretions.
+#### Depend on abstractions, not on concretions.
 - High-level modules should not depend on low-level modules. Both should depend on abstractions.
 - Abstractions should not depend on details. Details should depend on abstractions.
 - Implementation of the DIP can also involve Composite pattern and Decorator pattern which I will discuss in later articles.
@@ -459,3 +459,5 @@ inventoryTracker.requestItems();
 ----
 
 As Uncle Bob says: _“They are not laws. They are not perfect truths”. Nevertheless, they have helped me a lot to create clean code, and I think as a developer you should at least know them so you can decide when to apply them and when not."_
+
+### [Return: Express README](../README.md)

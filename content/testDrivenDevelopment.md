@@ -1,5 +1,6 @@
-![software_quality](img/software_quality.jpg)
-# Test-Driven Development
+![software_quality](../img/software_quality.jpg)
+
+## Test-Driven Development
 Writing a test before writing the code means that the test will fail, however it is a clear directive for what to add to your program next. And that's the brilliance of test-driven development.
 
 `Test-driven development` (TDD) starts with developing test for each one of the features. The test might fail as the tests are developed even before the development. Development team then develops and refactors the code to pass the test. The primary goal of Test-driven development is to make the code clearer, simple and bug free.
@@ -30,3 +31,5 @@ __Repeat;__ starting with another new test, the cycle is then repeated to push f
 [TDD Terminology Simplified](https://code.tutsplus.com/articles/tdd-terminology-simplified--net-30626)
 
 [Image Source](http://searchsoftwarequality.techtarget.com/definition/test-driven-development)
+
+### [Return: Express README](../README.md)

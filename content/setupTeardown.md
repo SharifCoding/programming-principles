@@ -1,4 +1,6 @@
-![setupTeardown](img/setupTeardown.png)
+![setupTeardown](../img/setupTeardown.png)
+
+## Setup and Teardown
 
 ___Prepare initial state before tests run and perform cleanup after tests complete.___
 
@@ -74,3 +76,5 @@ describe('Ship', () => {
 [Setup and Teardown](https://facebook.github.io/jest/docs/en/setup-teardown.html)
 
 [Image Source](http://www.assertselenium.com/angularjs/protractor-jasmine-pre-post-processing-methods/)
+
+### [Return: Express README](../README.md)

@@ -1,4 +1,6 @@
-![stubsJest](img/stubsJest.png)
+![stubsJest](../img/stubsJest.png)
+
+## Stub functions
 
 ___A stub method is a method that just returns a simple but valid (though not necessarily correct) result.___
 
@@ -12,7 +14,7 @@ This function really does nothing but return an empty string. It is a stub, as i
 
 Stubs are a type of test double but slightly more complex than mocks in that they are essentially "fake" objects that having matching properties and/or methods that our real objects would have. As long as the object's property names and value types (the interface) matches then we can successfully use stubs in place of our other objects in order to further isolate our test suites.
 
-### Vending Machine Example
+#### Vending Machine Example
 Main code to be called by the test unit:
 ```js
 function VendingMachine () {
@@ -62,3 +64,5 @@ test('snack can be purchased', () => {
 ```
 
 [Mock Functions](https://facebook.github.io/jest/docs/en/mock-function-api.html)
+
+### [Return: Express README](../README.md)

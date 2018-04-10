@@ -1,4 +1,6 @@
-![spiesJest](img/spiesJest.jpeg)
+![spiesJest](../img/spiesJest.jpeg)
+
+## Spies Function 
 
 ___A spy can tell us how many times a function was called, what arguments each call had, what values were returned, what errors were thrown, etc.___
 
@@ -64,3 +66,5 @@ Spies applied to the test unit:
   expect(itinerary.ports).toEqual(ports);
 ```
 [Mock Functions](https://facebook.github.io/jest/docs/en/mock-function-api.html)
+
+### [Return: Express README](../README.md)
