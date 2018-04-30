@@ -13,5 +13,9 @@
 #### [Spies Function](./content/spiesJest.md)
 #### [Example of Object-oriented Programming](./content/exampleObjectOriented.md)
 #### [Introduction to Express JS](./content/expressIntro.md)
+#### [Nodemon - Auto-server restart](./content/nodemon.md)
 #### [Asynchronous Programming](./content/async.md)
 #### [JSON (JavaScript Object Notation)](./content/JSON.md)
+#### [Introduction to React](./content/reactIntro.md)
+#### [JavaScript XML (JSX)](./content/reactJSX.md)
+
