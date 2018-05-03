@@ -2,8 +2,8 @@
 
 # Programming Principles
 
-### ***Work in progress***
-
+#### [Example of Object-oriented Programming](./content/exampleObjectOriented.md)
+### TestingJS
 #### [Test-Driven Development](./content/testDrivenDevelopment.md)
 #### [Setup and Teardown](./content/setupTeardown.md)
 #### [SOLID Principles](./content/solidPrinciples.md)
@@ -11,11 +11,14 @@
 #### [Mock Functions](./content/mockJest.md)
 #### [Stubs Function](./content/stubsJest.md)
 #### [Spies Function](./content/spiesJest.md)
-#### [Example of Object-oriented Programming](./content/exampleObjectOriented.md)
+### ExpressJS
 #### [Introduction to Express JS](./content/expressIntro.md)
 #### [Nodemon - Auto-server restart](./content/nodemon.md)
 #### [Asynchronous Programming](./content/async.md)
 #### [JSON (JavaScript Object Notation)](./content/JSON.md)
+### ReactJS
 #### [Introduction to React](./content/reactIntro.md)
 #### [JavaScript XML (JSX)](./content/reactJSX.md)
-
+#### [ES6 Class Syntax](./content/reactClass.md)
+#### [Stateless/Stateful React Components](./content/reactState.md)
+#### [Event Handlers](./content/reactHandlers.md)
