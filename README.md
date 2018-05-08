@@ -22,3 +22,6 @@
 #### [ES6 Class Syntax](./content/reactClass.md)
 #### [Stateless/Stateful React Components](./content/reactState.md)
 #### [Event Handlers](./content/reactHandlers.md)
+#### [Bind a Method](./content/reactBind.md)
+#### [React Render Lifecyle](./content/reactLifecycle.md)
+#### [Example of React Arrow Function](./content/reactArrowExample.md)
