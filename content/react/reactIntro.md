@@ -1,4 +1,4 @@
-![react logo](../img/reactJS.png)
+![react logo](../../img/reactJS.png)
 
 ___React is a popular library used to create user interfaces. It was built at Facebook to address some of the challenges associated with large-scale, data-driven websites.___
 
@@ -35,4 +35,4 @@ React is founded on the idea that DOM manipulation is an expensive operation and
 
 [React](https://reactjs.org/)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

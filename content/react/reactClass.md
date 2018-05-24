@@ -1,4 +1,4 @@
-![Class](../img/reactClass.png)
+![Class](../../img/reactClass.png)
 
 ___Class in terms of Object-oriented Programming is a blueprint for creating objects. A class encapsulates data and functionality for the object.___
 
@@ -32,4 +32,4 @@ const trip = new Vacation("Santiago, Chile", 7);
 console.log(trip.print()); // Chile will take 7 days.
 ```
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

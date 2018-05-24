@@ -1,4 +1,4 @@
-![Class](../img/reactState.jpg)
+![Class](../../img/reactState.jpg)
 
 ___The heart of every React component is its “state”, an object that determines how that component renders & behaves.___
 
@@ -42,4 +42,4 @@ module.exports = Header;
 
 [Image Source](https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

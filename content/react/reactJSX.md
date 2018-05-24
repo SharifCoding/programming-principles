@@ -1,4 +1,4 @@
-![JSX](../img/introJSX.png)
+![JSX](../../img/introJSX.png)
 
 ___JavaScript XML (JSX) is an XML syntax that constructs the markup in React components.___
 
@@ -33,4 +33,4 @@ render: function(){
 [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 [Image Source](https://medium.com/modern-user-interfaces/dear-templating-sincerely-jsx-part-1-1df99c599001)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

@@ -1,4 +1,4 @@
-![reactBind](../img/reactBind.png)
+![reactBind](../../img/reactBind.png)
 ## Bind a Method
 
 ___`this` is a special keyword inside each function that refers to the current context.___
@@ -122,4 +122,4 @@ class HelloWorld extends React.Component {
 ```
 [5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

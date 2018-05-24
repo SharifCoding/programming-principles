@@ -60,4 +60,5 @@ export default iceCreamMaker;
 
 ----
 
-#### [Return: Express README](./solidPrinciples.md)
+#### [Return: SOLID Principles](./solidPrinciples.md)
+#### [Return: Express README](../README.md)

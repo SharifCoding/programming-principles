@@ -1,4 +1,4 @@
-![Handling](../img/eventHandler.png)
+![Handling](../../img/eventHandler.png)
 
 ___Handling events with React elements is very similar to handling events on DOM elements.___
 #### Event Handling
@@ -18,4 +18,4 @@ Note that in HTML, event listener names are written in all lowercase, such as on
 
 [Image Source](http://webjustify.com/reactjs-events/)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)
