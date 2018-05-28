@@ -1,4 +1,4 @@
-![JSX](../../img/introJSX.png)
+![JSX](https://cdn-images-1.medium.com/max/1600/1*-ty7aZqH2of-rXpWYaoKPQ.png)
 
 ___JavaScript XML (JSX) is an XML syntax that constructs the markup in React components.___
 

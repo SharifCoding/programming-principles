@@ -1,4 +1,4 @@
-![introAxios](../../img/reactAxios.png)
+![introAxios](../img/reactAxios.png)
 ## Use Axios as Your HTTP Client
 
 ___Axios is a promise-based HTTP client that works both in the browser and in a node.js environment. It provides a single API for dealing with Http Requests and node’s http interface.___
@@ -37,4 +37,4 @@ axios.all([
 ```
 [axios](https://github.com/axios/axios)
 
-#### [Return: Express README](../../README.md)
+#### [Return: Express README](../README.md)

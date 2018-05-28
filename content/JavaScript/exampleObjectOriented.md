@@ -1,4 +1,4 @@
-![mockJest](../img/ObjectOriented.png)
+![mockJest](https://koenig-media.raywenderlich.com/uploads/2017/05/ObjectOrientedProgramming-graph-2.png)
 
 ## Example of Object-oriented Programming
 
@@ -116,4 +116,4 @@ Person.prototype.greet = function greet() {
 
 [Image Source](https://www.raywenderlich.com/160728/object-oriented-programming-swift)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

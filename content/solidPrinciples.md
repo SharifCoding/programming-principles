@@ -1,4 +1,4 @@
-![https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa](../img/SOLID.jpeg)
+![SOLID](https://cdn-images-1.medium.com/max/1600/1*qfk6AFv4OF1GRd1WZJc25A.jpeg)
 
 ## SOLID Principles
 Some important point about SOLID design principles.
@@ -21,5 +21,7 @@ SOLID is an acronym for five principles that help software developers design mai
 ----
 
 As Uncle Bob says: _“They are not laws. They are not perfect truths”. Nevertheless, they have helped me a lot to create clean code, and I think as a developer you should at least know them so you can decide when to apply them and when not."_
+
+[Image Source](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 
 #### [Return: Express README](../README.md)

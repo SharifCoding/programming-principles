@@ -1,4 +1,4 @@
-![setupTeardown](../img/setupTeardown.png)
+![setupTeardown](http://www.assertselenium.com/wp-content/uploads/2016/06/Screen-Shot-2016-08-08-at-7.12.43-PM.png)
 
 ## Setup and Teardown
 

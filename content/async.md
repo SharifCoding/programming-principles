@@ -1,7 +1,7 @@
 ![jsAsync](../img/jsAsync.png)
 ## Asynchronous programming
 
-___Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript___
+___Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.___
 
 In javascript, any blocking code (I/O operations, network operations, etc.), is run in a different pool, so that the remaining code can be executed asynchronously. This way, the waiting time and execution time is reduced a lot. But it also changes the programming methodologies. The completion of execution of such asynchronous calls are handled through callback functions. [Conti..](http://ketangupta.in/blog/development/2018/01/19/async-auto/)
 

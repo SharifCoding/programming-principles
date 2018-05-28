@@ -1,4 +1,4 @@
-![Handling](../../img/eventHandler.png)
+![Handling](https://webjustify.com/wp-content/uploads/2018/04/event-handler.png)
 
 ___Handling events with React elements is very similar to handling events on DOM elements.___
 #### Event Handling

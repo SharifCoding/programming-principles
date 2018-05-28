@@ -1,4 +1,4 @@
-![nodemon](../img/learnSASS.png)
+![nodemon](../../img/learnSASS.png)
 
 ## Learn Sass with npm package learn-sass
 _Sass_ is what is known as a _CSS preprocessor_ - effectively a layer on top of CSS that allows us to use features that don't exist in CSS yet. We write our code in Sass, run it through the Sass compiler which translates our fancy Sass markup into ordinary CSS, and this gets piped into a new CSS file.
@@ -710,4 +710,4 @@ is compiled to:
 </p>
 </details>
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

@@ -1,4 +1,4 @@
-![Class](../../img/reactState.jpg)
+![Class](https://cms-assets.tutsplus.com/uploads/users/1795/posts/29541/image/Stateful-vs-Stateless-Component-Tutorial-Component-with-prop.jpg)
 
 ___The heart of every React component is its “state”, an object that determines how that component renders & behaves.___
 

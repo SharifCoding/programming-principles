@@ -1,4 +1,4 @@
-![fourPhaseTest](../img/fourPhaseTest.png)
+![fourPhaseTest](https://www.codeaffine.com/wp-content/uploads/2014/08/four-phase-test.png)
 
 ## Four-Phase Test
 If a test is written with no care, it can be difficult to maintain and even progress with the test. It is important to be able to quickly determine what behavior the test is verifying. `Four-phase test` is one of the basic Unit Testing patterns and it usually defines the four phases needed to have a well-organized Unit testing class.

@@ -1,4 +1,4 @@
-![software_quality](../img/JSON.jpg)
+![software_quality](http://dselva.co.in/blog/wp-content/uploads/2017/09/what-is-a-json-file.jpg)
 
 ___JSON, or JavaScript Object Notation, is a minimal, readable format for structuring data. It is used primarily to transmit data between a server and web application___
 

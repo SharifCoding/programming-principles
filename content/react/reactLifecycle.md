@@ -1,4 +1,4 @@
-![reactLifecyle](../img/reactLifecyle.png)
+![reactLifecyle](https://cdn-images-1.medium.com/max/2000/1*sn-ftowp0_VVRbeUAFECMA.png)
 ## React Render Lifecycle
 
 ___React enables to create components by invoking the React.createClass() method which expects a render method and triggers a lifecycle that can be hooked into via a number of so called lifecycle methods.___
@@ -15,4 +15,4 @@ The React component goes through the following phases;
 
 [Understanding the React Component Lifecycle](https://plnkr.co/edit/0cN0tu?p=preview)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)
