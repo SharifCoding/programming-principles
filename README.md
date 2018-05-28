@@ -29,20 +29,20 @@
 - [Asynchronous Programming](./content/async.md)
 - [JSON (JavaScript Object Notation)](./content/JSON.md)
 
-#### [Introduction to React](./content/React/reactIntro.md)
-- [JavaScript XML (JSX)](./content/React/reactJSX.md)
-- [ES6 Class Syntax](./content/React/reactClass.md)
-- [Stateless/Stateful React Components](./content/React/reactState.md)
-- [Event Handlers](./content/React/reactHandlers.md)
-- [Bind a Method](./content/React/reactBind.md)
-- [React Forms](./content/React/reactForms.md)
-- [React Routers](./content/React/reactRouter.md)
-- [Example of React Arrow Function](./content/React/reactArrowExample.md)
+#### [Introduction to React](./content/ReactJS/reactIntro.md)
+- [JavaScript XML (JSX)](./content/ReactJS/reactJSX.md)
+- [ES6 Class Syntax](./content/ReactJS/reactClass.md)
+- [Stateless/Stateful React Components](./content/ReactJS/reactState.md)
+- [Event Handlers](./content/ReactJS/reactHandlers.md)
+- [Bind a Method](./content/ReactJS/reactBind.md)
+- [React Forms](./content/ReactJS/reactForms.md)
+- [React Routers](./content/ReactJS/reactRouter.md)
+- [Example of React Arrow Function](./content/ReactJS/reactArrowExample.md)
 
-#### [React Render Lifecyle](./content/React/reactLifecycle.md)
-- [Mounting Lifecycle Methods](./content/React/reactMounting.md)
-- [Updating Lifecycle Methods](./content/React/reactUpdating.md)
-- [Unmounting Lifecycle Methods](./content/React/reactUnmounting.md)
+#### [React Render Lifecyle](./content/ReactJS/reactLifecycle.md)
+- [Mounting Lifecycle Methods](./content/ReactJS/reactMounting.md)
+- [Updating Lifecycle Methods](./content/ReactJS/reactUpdating.md)
+- [Unmounting Lifecycle Methods](./content/ReactJS/reactUnmounting.md)
 ___
 
 ```bash
