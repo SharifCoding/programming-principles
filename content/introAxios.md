@@ -1,4 +1,14 @@
-![introAxios](../img/reactAxios.png)
+```css
+axios.request(config)
+axios.get(url[, config])
+axios.delete(url[, config])
+axios.head(url[, config])
+axios.options(url[, config])
+axios.post(url[, data[, config]])
+axios.put(url[, data[, config]])
+axios.patch(url[, data[, config]])
+```
+
 ## Use Axios as Your HTTP Client
 
 ___Axios is a promise-based HTTP client that works both in the browser and in a node.js environment. It provides a single API for dealing with Http Requests and node’s http interface.___

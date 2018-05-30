@@ -43,7 +43,6 @@
 - [Mounting Lifecycle Methods](./content/ReactJS/reactMounting.md)
 - [Updating Lifecycle Methods](./content/ReactJS/reactUpdating.md)
 - [Unmounting Lifecycle Methods](./content/ReactJS/reactUnmounting.md)
-___
 
 ```bash
 undefined...
@@ -51,3 +50,6 @@ undefined...
 - [What is Webpack?](./content/basicWebpack.md)
 - [Use Axios as Your HTTP Client](./content/introAxios.md)
 - [Introduction to MERN stack](./content/introMERN.md)
+- [Authentication, Authorization, and Encryption](./content/authentication.md)
+- [Bcrypt Encryption](./content/bcryptEncrypt.md)
+- [Introduction to JSON Web Tokens](./content/jstEncrypt.md)
