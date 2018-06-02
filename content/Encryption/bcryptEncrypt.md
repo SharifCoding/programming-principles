@@ -31,6 +31,7 @@ Using a Key Factor, BCrypt is able to adjust the cost of hashing. With Key Facto
 This Key Factor will continue to be a key feature as computers become more powerful in the future. Well, because it compensates for these powerful computers and slows down hashing speed significantly. Ultimately slowing down the cracking process until it’s no longer a viable strategy.
 
 [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
+
 [Use BCrypt Fool!](https://yorickpeterse.com/articles/use-bcrypt-fool/)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)
