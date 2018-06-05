@@ -1,4 +1,4 @@
-![jsAsync](../img/jsAsync.png)
+![jsAsync](https://i.ytimg.com/vi/1V7rpblmruw/maxresdefault.jpg)
 ## Asynchronous programming
 
 ___Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.___
@@ -32,4 +32,4 @@ Second example, the console.log will be executed WHILE the query is being proces
 
 [JavaScript — from callbacks to async/await](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)

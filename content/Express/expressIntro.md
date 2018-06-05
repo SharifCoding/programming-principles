@@ -1,30 +1,39 @@
-![express logo](../img/expressJS.png)
+![express logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)
 
 ___Express is a (relatively) lightweight server-side JavaScript framework that runs on a Node.js server.___
 ## ExpressJS Introduction
 
-### What is Node?
+#### What is Node?
 - Node.js is a webserver that operates on the V8 Google Chrome JavaScript runtime, allowing you to write server-side code in JavaScript.
 - Node.js provides the ability to handle requests and issue responses.
 - It is fast.
 - It is fast largely because it is asynchronous, meaning code can run in parallel without "blocking" the call stack (the list of other concurrent commands).
 
-### NPM and NPM Init
+#### NPM and NPM Init
 - NPM stands for Node Package Manager, and is a tool that allows us to easily download community-built Node packages.
 - Initialize new Node project with NPM: `npm init`.
 - Install NPM packages: `npm install --save express`.
 - NPM works with package.json, which is a list of project information and dependencies that can be installed on other computers and servers.
 
-### What is Node Good For?
+#### What is Node Good For?
 - Node really shines when it comes to heavy input-output type operations.
 - Realtime services like chat applications or conferencing platforms benefit from using Node.
 - APIs are also input/output heavy, and they also tend to work with JavaScript out of the box (think JSON). What better platform than Node?
 
-### Express JS
+#### Express JS
 - Express is a framework built on top of Node.js that makes development of web servers more intuitive and quicker.
 - Express allows us to easily set up routes that will trigger actions such as rendering pages or returning JSON.
 
-### Express ___'Hello World'___ example:
+#### Installing Express
+Firstly, install the Express framework globally using npm so that it can be used to create web application using node terminal.
+```bash
+$ npm install express --save
+```
+Above command saves installation locally in node_modules directory and creates a directory express inside node_modules. You should install `body-parser`, this is a node.js middleware for handling JSON, Raw, Text and URL encoded form data.
+```bash   
+$ npm install body-parser --save
+```
+#### Express ___'Hello World'___ example:
 ```js
 const express = require('express');
 
@@ -46,4 +55,4 @@ The final block starts up the server on port `3000` and prints a log comment to 
 
 [Express](http://expressjs.com/)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)
