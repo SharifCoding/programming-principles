@@ -5,6 +5,11 @@ ___Heroku is a multi-language cloud application platform that enables developers
 
 Heroku is a cloud platform as a service (PaaS) for Ruby, Node.js, Python, Go, PHP, and JVM-based applications, where developers manage their applications without the need for servers or administration. It features Git-based, GitHub, and API deployment strategies. Applications on Heroku are managed with Git. Simply pushing your codebase to Heroku is all it takes to deploy your application.
 
+- Developer friendly - CLI and web console for managing apps
+- Data-storage via add-ons
+- Works with all major programming languages
+- Allows us to build applications quickly and cheaply (i.e free)
+
 Applications that are run on Heroku typically have a unique domain (typically `applicationname.herokuapp.com`) used to route HTTP requests to the correct dyno. Each of the application containers, or dynos, are spread across a "dyno grid" which consists of several servers.
 
 #### Heroku And Git
@@ -33,6 +38,8 @@ git push heroku master
 Once you see “remote: Verifying deploy…. done.” You can now visit your site at `https://<whatever-name-you-selected>.herokuapp.com/`.
 
 [Heroku](https://www.heroku.com/)
+
+[How to Deploy a Static Website to Heroku](https://medium.com/@adityaniloi/how-to-deploy-a-static-website-to-heroku-49d55e07cb94)
 
 [How to Deploy a Node.js App to Heroku](https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku)
 
