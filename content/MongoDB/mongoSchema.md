@@ -1,4 +1,4 @@
-![MongoDB Schema]()
+![MongoDB Schema](https://docs.mongodb.com/manual/_images/data-model-normalized.bakedsvg.svg)
 
 ## MongoDB Schema
 ___Using Mongoose, everything starts with a schema. A schema maps to a MongoDB document or collection and is a set of rules and instructions for creating models.___
@@ -51,5 +51,7 @@ const breakfastSchema = new Schema({
   }
 });
 ```
+
+[MongoDB schema design](https://hackernoon.com/mongodb-schema-design-86327d8fae83)
 
 #### [Return: Express README](../../README.md)

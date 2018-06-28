@@ -34,6 +34,7 @@
 
 #### [MongoDB Introduction](./content/MongoDB/mongoIntro.md)
 - [MongoDB Schema](./content/MongoDB/mongoSchema.md)
+- [Mongo Aggregations Pipeline](./content/MongoDB/mongoAggregate.md)
 - [JSON (JavaScript Object Notation)](./content/MongoDB/JSON.md)
 
 #### [Introduction to React](./content/ReactJS/reactIntro.md)
