@@ -9,6 +9,7 @@
 
 #### [Introduction to JavaScript](./content/JavaScript/introJavaScript.md)
 - [Example of Object-oriented Programming](./content/JavaScript/exampleObjectOriented.md)
+- [JavaScript Cheat Sheet](./content/JavaScript/cheatsheetJS.md)
 
 #### [Test-Driven Development](./content/Testing/testDrivenDevelopment.md)
 - [Setup and Teardown](./content/Testing/setupTeardown.md)
@@ -47,7 +48,7 @@
 - [React Routers](./content/ReactJS/reactRouter.md)
 - [Example of React Arrow Function](./content/ReactJS/reactArrowExample.md)
 
-#### [Getting started with React Native](./content/reactNative.md)
+#### [Getting started with React Native](./content/ReactNative/reactNative.md)
 
 #### [React Render Lifecyle](./content/ReactJS/reactLifecycle.md)
 - [Mounting Lifecycle Methods](./content/ReactJS/reactMounting.md)
@@ -59,10 +60,12 @@
 - [Introduction to JSON Web Tokens](./content/Encryption/jstEncrypt.md)
 - [AuthO - Open standard for authorization](./content/Encryption/introOAuth.md)
 
+#### [Introduction to Angular](./content/Angular/angularIntro.md)
+
 ```bash
 undefined...
 ```
-- [Introduction to MERN stack](./content/introMERN.md)
-- [What is Webpack?](./content/basicWebpack.md)
-- [Nodemon - Auto-server restart](./content/nodemon.md)
-- [Heroku - Cloud Application platform](./content/heroku.md)
+- [Introduction to MERN stack](./content/Undefined/introMERN.md)
+- [What is Webpack?](./content/Undefined/basicWebpack.md)
+- [Nodemon - Auto-server restart](./content/Undefined/nodemon.md)
+- [Heroku - Cloud Application platform](./content/Undefined/heroku.md)

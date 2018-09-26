@@ -30,4 +30,6 @@ A primary key is mandated in MongoDB, and it has the reserved field name _id. Ev
 
 The _id field is automatically indexed. Apart from this, indexes can be created on other fields, and this includes fields within embedded documents and array fields. Indexes are used to efficiently access a subset of documents in a collection.
 
+[Introduction to Mongoose for MongoDB](https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57)
+
 #### [Return: Express README](../../README.md)

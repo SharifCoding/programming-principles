@@ -47,4 +47,4 @@ In terminal, type `npm run ios` will open project in the iOS simulator.
 
 [Expo.io](http://expo.io/)
 
-#### [Return: Express README](../README.md)
+#### [Return: Express README](../../README.md)
