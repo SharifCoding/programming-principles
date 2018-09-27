@@ -61,6 +61,7 @@
 - [AuthO - Open standard for authorization](./content/Encryption/introOAuth.md)
 
 #### [Introduction to Angular](./content/Angular/angularIntro.md)
+- [TypeScript](./content/Angular/typeScript.md)
 
 ```bash
 undefined...
