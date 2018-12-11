@@ -120,6 +120,8 @@ class HelloWorld extends React.Component {
   }
 }
 ```
-[5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56)
+
+#### Further Reading
+- [5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56) - There are at least five ways to handle the this context in React.
 
 #### [Return: Express README](../../README.md)

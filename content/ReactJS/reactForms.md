@@ -55,7 +55,8 @@ The fact that `<input />` keeps track of information makes it an uncontrolled co
 A controlled component, on the other hand, has no memory. If you ask it for information about itself, then it will have to get that information through props. Most React components are controlled.
 In React, when you give an `<input />` a value attribute, then something strange happens: the `<input />` BECOMES controlled. It stops using its internal storage. This is a more 'React' way of doing things.
 
-[React Forms](https://reactjs.org/docs/forms.html)
+#### Further Reading
+- [React Forms](https://reactjs.org/docs/forms.html) - HTML form elements work a little bit differently from other DOM elements in React.
 
 [Image Source](https://www.sitepoint.com/work-with-forms-in-react/)
 

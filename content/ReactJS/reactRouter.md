@@ -34,7 +34,8 @@ http://example.com/#/about
 ```
 If you intend to support legacy browsers, you should stick with `<HashRouter>`.
 
-[Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide)
+#### Further Reading
+- [Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide) - Full fleshed single page applications with React harnessing the powers of routing.
 
 [Image Source](https://blog.cloudboost.io/use-react-router-v4-for-applications-d8346134db6c)
 

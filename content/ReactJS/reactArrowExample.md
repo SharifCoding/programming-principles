@@ -44,6 +44,7 @@ MyComponent({ message: 'Hello World' });
 ```
 Where you are invoking the `MyComponent` function with an object with a message property. but it’s just written in JSX React syntax instead of standard JavaScript.
 
-[Functions for Beginners Javascript](https://www.panayiotisgeorgiou.net/arrow-functions-beginners-javascript/)
+#### Further Reading
+- [Functions for Beginners Javascript](https://www.panayiotisgeorgiou.net/arrow-functions-beginners-javascript/) - Arrow functions are a new ES6 syntax for writing JavaScript functions.
 
 #### [Return: Express README](../../README.md)

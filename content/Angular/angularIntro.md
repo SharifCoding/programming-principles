@@ -9,6 +9,7 @@ The primary goal of Angular is to simplify the building of client applications i
 
 Above figure shows all the major building blocks of the Angular framework. This method of separating HTML templates, component classes that manage the templates, services that contain business logic and other components, leads to logical architectural design, higher component reusability and better testability of separate blocks. This design principle of separation program into distinct parts is well known in computer science as a separation of concerns.
 
-[angular.io](https://angular.io/)
+#### Further Reading
+- [angular.io](https://angular.io/) - Angular is a platform that makes it easy to build applications with the web.
 
 #### [Return: Express README](../../README.md)

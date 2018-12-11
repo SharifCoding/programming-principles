@@ -52,7 +52,7 @@ button.onclick = function () {
 };
 document.body.appendChild(button);
 ```
-
-[TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
+#### Further Reading
+- [TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9) - TypeScript is a typed superset of JavaScript that complies to plain JavaScript.
 
 #### [Return: Express README](../../README.md)

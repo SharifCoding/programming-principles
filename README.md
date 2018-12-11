@@ -1,7 +1,8 @@
 ![www.pexels.com](img/booksPic.jpeg)
 
-## Programming Principles
-<b><i>Work in progress</i></b>
+```bash
+Programming Principles
+```
 #### [HyperText Markup Language](./content/HTML5/introHTML.md)
 
 #### [Cascading Style Sheet](./content/CSS3/introCSS.md)
@@ -25,19 +26,6 @@
 - [Interface segregation](./content/Testing/solidInterface.md)
 - [Dependency inversion](./content/Testing/solidDependency.md)
 
-#### [Introduction to Express JS](./content/Express/expressIntro.md)
-- [Request & Response (Callback Function)](./content/Express/callbackFunc.md)
-- [Basic Routing](./content/Express/basicRoute.md)
-- [Serving Static Files](./content/Express/staticFiles.md)
-- [Asynchronous Programming](./content/Express/async.md)
-- [HTTP Status Code](./content/Express/statusCode.md)
-- [Use Axios as Your HTTP Client](./content/Express/introAxios.md)
-
-#### [MongoDB Introduction](./content/MongoDB/mongoIntro.md)
-- [MongoDB Schema](./content/MongoDB/mongoSchema.md)
-- [Mongo Aggregations Pipeline](./content/MongoDB/mongoAggregate.md)
-- [JSON (JavaScript Object Notation)](./content/MongoDB/JSON.md)
-
 #### [Introduction to React](./content/ReactJS/reactIntro.md)
 - [JavaScript XML (JSX)](./content/ReactJS/reactJSX.md)
 - [ES6 Class Syntax](./content/ReactJS/reactClass.md)
@@ -55,13 +43,28 @@
 - [Updating Lifecycle Methods](./content/ReactJS/reactUpdating.md)
 - [Unmounting Lifecycle Methods](./content/ReactJS/reactUnmounting.md)
 
+#### [Introduction to Angular](./content/Angular/angularIntro.md)
+- [TypeScript](./content/Angular/typeScript.md)
+- [Automation testing with Protractor](./content/Angular/protractorJS.md)
+- [Protractor - Locators and ElementFinders](./content/Angular/protractorLocators.md)
+
+#### [Introduction to Express JS](./content/Express/expressIntro.md)
+- [Request & Response (Callback Function)](./content/Express/callbackFunc.md)
+- [Basic Routing](./content/Express/basicRoute.md)
+- [Serving Static Files](./content/Express/staticFiles.md)
+- [Asynchronous Programming](./content/Express/async.md)
+- [HTTP Status Code](./content/Express/statusCode.md)
+- [Use Axios as Your HTTP Client](./content/Express/introAxios.md)
+
+#### [MongoDB Introduction](./content/MongoDB/mongoIntro.md)
+- [MongoDB Schema](./content/MongoDB/mongoSchema.md)
+- [Mongo Aggregations Pipeline](./content/MongoDB/mongoAggregate.md)
+- [JSON (JavaScript Object Notation)](./content/MongoDB/JSON.md)
+
 #### [Authentication, Authorization, and Encryption](./content/Encryption/authentication.md)
 - [Bcrypt Encryption](./content/Encryption/bcryptEncrypt.md)
 - [Introduction to JSON Web Tokens](./content/Encryption/jstEncrypt.md)
 - [AuthO - Open standard for authorization](./content/Encryption/introOAuth.md)
-
-#### [Introduction to Angular](./content/Angular/angularIntro.md)
-- [TypeScript](./content/Angular/typeScript.md)
 
 ```bash
 undefined...
