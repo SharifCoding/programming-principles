@@ -46,7 +46,9 @@ Programming Principles
 #### [Introduction to Angular](./content/Angular/angularIntro.md)
 - [TypeScript](./content/Angular/typeScript.md)
 - [Automation testing with Protractor](./content/Angular/protractorJS.md)
+- [Jasmine Syntax](./content/Angular/jasmineSyntax.md)
 - [Protractor - Locators and ElementFinders](./content/Angular/protractorLocators.md)
+- [Page Object](./content/Angular/pageObject.md)
 
 #### [Introduction to Express JS](./content/Express/expressIntro.md)
 - [Request & Response (Callback Function)](./content/Express/callbackFunc.md)

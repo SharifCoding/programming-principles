@@ -99,7 +99,7 @@ element.all(by.css('some-css'));
 
 // Using chained locators to find:
 // a sub-element:
- element(by.css('some-css')).element(by.tagName('tag-within-css'));
+element(by.css('some-css')).element(by.tagName('tag-within-css'));
 
 // to find a list of sub-elements:
 element(by.css('some-css')).all(by.tagName('tag-within-css'));
