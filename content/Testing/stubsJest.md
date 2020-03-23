@@ -1,4 +1,4 @@
-![stubsJest](../img/stubsJest.png)
+![stubsJest](../../img/stubsJest.png)
 
 ## Stub functions
 

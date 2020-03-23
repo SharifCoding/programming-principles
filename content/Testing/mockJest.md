@@ -1,4 +1,4 @@
-![mockJest](../img/mockJest.png)
+![mockJest](../../img/mockJest.png)
 
 ## Mock functions
 

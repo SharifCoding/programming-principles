@@ -1,4 +1,4 @@
-![nodemon](../img/nodemon.png)
+![nodemon](../../img/nodemon.png)
 
 Tired of restarting your server every time you make a change? You can fix this problem by using a package called Nodemon.
 

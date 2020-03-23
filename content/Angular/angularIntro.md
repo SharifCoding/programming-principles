@@ -1,4 +1,4 @@
-![angular](https://angular.io/generated/images/guide/cli-quickstart/app-works.png)
+![angular](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
 ## Introduction to Angular
 
 ___Angular is a JavaScript open-source client-side framework created and maintained by Google and a community of developers on GitHub. It is written entirely in Typescript, but there is a chance to use vanilla JavaScript version.___

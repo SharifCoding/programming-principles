@@ -1,4 +1,4 @@
-![Static Files](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/staticexpressnonginx.png_hkosr0ymvj)
+![Static Files](https://alligator.io/images/nodejs/serving-static-files-in-express.png)
 ## Serving Static Files
 
 ___Express provides a built-in middleware express.static to serve static files, such as images, CSS,
