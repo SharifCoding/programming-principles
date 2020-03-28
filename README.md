@@ -12,6 +12,8 @@ Programming Principles
 - [Example of Object-oriented Programming](./content/JavaScript/exampleObjectOriented.md)
 - [JavaScript Cheat Sheet](./content/JavaScript/cheatsheetJS.md)
 
+#### [Automation with Selenium](./content/Selenium/introSelenium.md)
+
 #### [Test-Driven Development](./content/Testing/testDrivenDevelopment.md)
 - [Setup and Teardown](./content/Testing/setupTeardown.md)
 - [Four Phase Test](./content/Testing/fourPhaseTest.md)
