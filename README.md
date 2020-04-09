@@ -13,6 +13,7 @@ Programming Principles
 - [JavaScript Cheat Sheet](./content/JavaScript/cheatsheetJS.md)
 
 #### [Automation with Selenium](./content/Selenium/introSelenium.md)
+- [Basic Appium Desktop GUI Setup](./content/Selenium/appiumGUISetup.md)
 
 #### [Test-Driven Development](./content/Testing/testDrivenDevelopment.md)
 - [Setup and Teardown](./content/Testing/setupTeardown.md)
