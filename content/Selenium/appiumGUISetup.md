@@ -9,6 +9,19 @@ Appium Desktop is a combination of two essential components of Appium:
 
 ### Troubleshooting
 
+#### installing appium cmd
+
+Following console error message is shown if unable to install chromedriver provided by Appium due to permission:
+
+```bash
+Failed at the appium-chromedriver@4.21.0 postinstall script.
+```
+
+Use the following command to overwrite permission issue:
+```bash
+npm install -g appium --unsafe-perm=true --allow-root
+```
+
 #### chromedriver issue
 
 Following console error message is shown if the chromedriver provided by Appium is incompatible with the Android web browser:
